@@ -6,7 +6,7 @@ O Tax Alfa, é um programa com base nos estudos dos pilares de Orientado a Objet
 de aplicar os 3 conceitos no código, sendo Encapsulamento, Herança e Polimorfismo, o programa
 vai pedir nome e valor de um produto e em seguida o valor da taxa alfandegária, caso o produto 
 seja importado, o programa irá fazer uma soma da taxa, se for produto nacional, essa soma não irá acontecer
-e se for produto usado, será impresso a data de fabriação, toda as escolhas poderão ser feitas pelo switch.
+e se for produto usado, será impresso a data de fabriação, todas as escolhas poderão ser feitas pelo switch.
 
 # Requisitos
 
